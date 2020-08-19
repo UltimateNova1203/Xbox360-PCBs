@@ -1,2 +1,2 @@
-# Xbox360-QSBs
-Quick Solder Boards for the Xbox 360
+# Xbox360-PCBs
+PCBs and accessories for the Xbox 360
